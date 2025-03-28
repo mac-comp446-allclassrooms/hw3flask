@@ -90,7 +90,7 @@ def reset_db():
 
 @app.route('/')
 def show_all_reviews():
-    return 'Welcome to Movie Theater reviews!'
+    return 'Welcome to Movie reviews!'
 
   
 # RUN THE FLASK APP
